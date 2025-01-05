@@ -1,0 +1,554 @@
+nohup: ignoring input
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1732668927.829173  323993 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1732668927.942702  324361 gl_context.cc:357] GL version: 3.2 (OpenGL ES 3.2 Mesa 23.3.3), renderer: llvmpipe (LLVM 17.0.6, 256 bits)
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABRIR/ABRIR_ORACION_1.mp4 with label ABRIR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABRIR/ABRIR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABRIR/ABRIR_ORACION_2.mp4 with label ABRIR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABRIR/ABRIR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABRIR/ABRIR_ORACION_3.mp4 with label ABRIR_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABRIR/ABRIR_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABRIR/ABRIR_ORACION_4.mp4 with label ABRIR_ORACION_4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABRIR/ABRIR_ORACION_4.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABRIR-CORTINA/ABRIR-CORTINA_ORACION_1.mp4 with label ABRIR-CORTINA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABRIR-CORTINA/ABRIR-CORTINA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABRIR-CORTINA/ABRIR-CORTINA_ORACION_2.mp4 with label ABRIR-CORTINA_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABRIR-CORTINA/ABRIR-CORTINA_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABURRIDO/ABURRIDO_ORACION_1.mp4 with label ABURRIDO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABURRIDO/ABURRIDO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABURRIDO/ABURRIDO_ORACION_2.mp4 with label ABURRIDO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABURRIDO/ABURRIDO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABURRIDO/ABURRIDO_ORACION_3.mp4 with label ABURRIDO_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABURRIDO/ABURRIDO_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABURRIDO/ABURRIDO_ORACION_4.mp4 with label ABURRIDO_ORACION_4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ABURRIDO/ABURRIDO_ORACION_4.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ACERCARSE/ACERCARSE_ORACION_1.mp4 with label ACERCARSE_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ACERCARSE/ACERCARSE_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ACERCARSE/ACERCARSE_ORACION_2.mp4 with label ACERCARSE_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ACERCARSE/ACERCARSE_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ADIVINA/ADIVINA_ORACION_1.mp4 with label ADIVINA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ADIVINA/ADIVINA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AHI/AHI_ORACION_1.mp4 with label AHI_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AHI/AHI_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AHORA/AHORA_ORACION_1.mp4 with label AHORA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AHORA/AHORA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AHORA/AHORA_ORACION_2.mp4 with label AHORA_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AHORA/AHORA_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ALGUNOS/ALGUNOS_ORACION_1.mp4 with label ALGUNOS_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ALGUNOS/ALGUNOS_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ALGUNOS/ALGUNOS_ORACION_2.mp4 with label ALGUNOS_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ALGUNOS/ALGUNOS_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ALLA/ALLA_ORACION_1.mp4 with label ALLA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ALLA/ALLA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ALTO/ALTO_ORACION_1.mp4 with label ALTO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ALTO/ALTO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AMANECER/AMANECER_ORACION_1.mp4 with label AMANECER_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AMANECER/AMANECER_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AMANECER/AMANECER_ORACION_2.mp4 with label AMANECER_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AMANECER/AMANECER_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AMANECER/AMANECER_ORACION_3.mp4 with label AMANECER_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AMANECER/AMANECER_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AMBULANCIA/AMBULANCIA_ORACION_1.mp4 with label AMBULANCIA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AMBULANCIA/AMBULANCIA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AMIGO/AMIGO_ORACION_1.mp4 with label AMIGO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AMIGO/AMIGO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ANILLO/ANILLO_ORACION_1.mp4 with label ANILLO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ANILLO/ANILLO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ANOCHECER/ANOCHECER_ORACION_1.mp4 with label ANOCHECER_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ANOCHECER/ANOCHECER_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ANTES/ANTES_ORACION_1.mp4 with label ANTES_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ANTES/ANTES_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ATARDECER/ATARDECER_ORACION_1.mp4 with label ATARDECER_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ATARDECER/ATARDECER_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ATARDECER/ATARDECER_ORACION_2.mp4 with label ATARDECER_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ATARDECER/ATARDECER_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ATARDECER/ATARDECER_ORACION_3.mp4 with label ATARDECER_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ATARDECER/ATARDECER_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ATRAPAR/ATRAPAR_ORACION_1.mp4 with label ATRAPAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ATRAPAR/ATRAPAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ATRAPAR/ATRAPAR_ORACION_2.mp4 with label ATRAPAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ATRAPAR/ATRAPAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AVION/AVION_ORACION_1.mp4 with label AVION_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AVION/AVION_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AVIONETA/AVIONETA_ORACION_1.mp4 with label AVIONETA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/AVIONETA/AVIONETA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BAJAR-ESCALERA/BAJAR-ESCALERA_ORACION_1.mp4 with label BAJAR-ESCALERA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BAJAR-ESCALERA/BAJAR-ESCALERA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BARCO/BARCO_ORACION_1.mp4 with label BARCO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BARCO/BARCO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BASTANTE/BASTANTE_ORACION_1.mp4 with label BASTANTE_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BASTANTE/BASTANTE_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BICICLETA/BICICLETA_ORACION_1.mp4 with label BICICLETA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BICICLETA/BICICLETA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BIEN/BIEN_ORACION_1.mp4 with label BIEN_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BIEN/BIEN_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BIEN/BIEN_ORACION_2.mp4 with label BIEN_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BIEN/BIEN_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BIEN/BIEN_ORACION_3.mp4 with label BIEN_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BIEN/BIEN_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BOLA-DE-CRISTAL/BOLA-DE-CRISTAL_ORACION_1.mp4 with label BOLA-DE-CRISTAL_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BOLA-DE-CRISTAL/BOLA-DE-CRISTAL_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BOTE/BOTE_ORACION_1.mp4 with label BOTE_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BOTE/BOTE_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BOTE/BOTE_ORACION_2.mp4 with label BOTE_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BOTE/BOTE_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BUS/BUS_ORACION_1.mp4 with label BUS_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/BUS/BUS_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAER/CAER_ORACION_1.mp4 with label CAER_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAER/CAER_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAJA/CAJA_ORACION_1.mp4 with label CAJA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAJA/CAJA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAJA/CAJA_ORACION_2.mp4 with label CAJA_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAJA/CAJA_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAJA/CAJA_ORACION_3.mp4 with label CAJA_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAJA/CAJA_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CALOR/CALOR_ORACION_1.mp4 with label CALOR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CALOR/CALOR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAMA/CAMA_ORACION_1.mp4 with label CAMA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAMA/CAMA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAMA/CAMA_ORACION_2.mp4 with label CAMA_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAMA/CAMA_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAMINAR/CAMINAR_ORACION_1.mp4 with label CAMINAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAMINAR/CAMINAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAMINAR/CAMINAR_ORACION_2.mp4 with label CAMINAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAMINAR/CAMINAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAMINAR/CAMINAR_ORACION_3.mp4 with label CAMINAR_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAMINAR/CAMINAR_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAMION/CAMION_ORACION_1.mp4 with label CAMION_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAMION/CAMION_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAMIONETA/CAMIONETA_ORACION_1.mp4 with label CAMIONETA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAMIONETA/CAMIONETA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAPTAR/CAPTAR_ORACION_1.mp4 with label CAPTAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAPTAR/CAPTAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAPTAR/CAPTAR_ORACION_2.mp4 with label CAPTAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAPTAR/CAPTAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAPTAR/CAPTAR_ORACION_3.mp4 with label CAPTAR_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAPTAR/CAPTAR_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAPTAR/CAPTAR_ORACION_4.mp4 with label CAPTAR_ORACION_4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CAPTAR/CAPTAR_ORACION_4.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CARGAR/CARGAR_ORACION_1.mp4 with label CARGAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CARGAR/CARGAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CARRO-BOMBERO/CARRO_BOMBERO_ORACION_1.mp4 with label CARRO_BOMBERO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CARRO-BOMBERO/CARRO_BOMBERO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CARTAS-DE-TAROT/CARTAS-DE-TAROT_ORACION_1.mp4 with label CARTAS-DE-TAROT_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CARTAS-DE-TAROT/CARTAS-DE-TAROT_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CASA/CASA_ORACION_1.mp4 with label CASA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CASA/CASA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CASACA/CASACA_ORACION_1.mp4 with label CASACA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CASACA/CASACA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CASAR/CASAR_ORACION_1.mp4 with label CASAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CASAR/CASAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CATORCE/CATORCE_ORACION_1.mp4 with label CATORCE_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CATORCE/CATORCE_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CATORCE/CATORCE_ORACION_2.mp4 with label CATORCE_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CATORCE/CATORCE_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CATORCE/CATORCE_ORACION_3.mp4 with label CATORCE_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CATORCE/CATORCE_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CERRAR-CAJON/CERRAR-CAJON_ORACION_1.mp4 with label CERRAR-CAJON_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CERRAR-CAJON/CERRAR-CAJON_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CERRAR-CAJON/CERRAR-CAJON_ORACION_2.mp4 with label CERRAR-CAJON_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CERRAR-CAJON/CERRAR-CAJON_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CHAU/CHAU_ORACION_1.mp4 with label CHAU_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CHAU/CHAU_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CHAU/CHAU_ORACION_2.mp4 with label CHAU_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CHAU/CHAU_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CHOCAR/CHOCAR_ORACION_1.mp4 with label CHOCAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CHOCAR/CHOCAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CIEN/CIEN_ORACION_1.mp4 with label CIEN_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CIEN/CIEN_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CIEN/CIEN_ORACION_2.mp4 with label CIEN_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CIEN/CIEN_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CINCUENTA/CINCUENTA_ORACION_1.mp4 with label CINCUENTA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CINCUENTA/CINCUENTA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CIUDAD/CIUDAD_ORACION_1.mp4 with label CIUDAD_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CIUDAD/CIUDAD_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/COMBI/COMBI_ORACION_1.mp4 with label COMBI_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/COMBI/COMBI_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/COMPRAR/COMPRAR_ORACION_1.mp4 with label COMPRAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/COMPRAR/COMPRAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/COMPRAR/COMPRAR_ORACION_2.mp4 with label COMPRAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/COMPRAR/COMPRAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR/CONTAR_ORACION_1.mp4 with label CONTAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR/CONTAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR/CONTAR_ORACION_2.mp4 with label CONTAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR/CONTAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR-DINERO/CONTAR-DINERO_ORACION_1.mp4 with label CONTAR-DINERO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR-DINERO/CONTAR-DINERO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR-DINERO/CONTAR-DINERO_ORACION_2.mp4 with label CONTAR-DINERO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR-DINERO/CONTAR-DINERO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR-NUMEROS/CONTAR-NUMEROS_ORACION_1.mp4 with label CONTAR-NUMEROS_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR-NUMEROS/CONTAR-NUMEROS_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR-NUMEROS/CONTAR-NUMEROS_ORACION_2.mp4 with label CONTAR-NUMEROS_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR-NUMEROS/CONTAR-NUMEROS_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR-NUMEROS/CONTAR-NUMEROS_ORACION_3.mp4 with label CONTAR-NUMEROS_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR-NUMEROS/CONTAR-NUMEROS_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR-NUMEROS/CONTAR-NUMEROS_ORACION_4.mp4 with label CONTAR-NUMEROS_ORACION_4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONTAR-NUMEROS/CONTAR-NUMEROS_ORACION_4.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONYUGE/CONYUGE_ORACION_1.mp4 with label CONYUGE_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CONYUGE/CONYUGE_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CORNUDO/CORNUDO_ORACION_1.mp4 with label CORNUDO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CORNUDO/CORNUDO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CORNUDO/CORNUDO_ORACION_2.mp4 with label CORNUDO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CORNUDO/CORNUDO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CORNUDO/CORNUDO_ORACION_3.mp4 with label CORNUDO_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CORNUDO/CORNUDO_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CORRER/CORRER_ORACION_1.mp4 with label CORRER_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CORRER/CORRER_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CORTINA/CORTINA_ORACION_1.mp4 with label CORTINA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CORTINA/CORTINA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CORTINA/CORTINA_ORACION_2.mp4 with label CORTINA_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CORTINA/CORTINA_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CORTINA/CORTINA_ORACION_3.mp4 with label CORTINA_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CORTINA/CORTINA_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUAL/CUAL_ORACION_1.mp4 with label CUAL_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUAL/CUAL_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUANDO/CUANDO_ORACION_1.mp4 with label CUANDO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUANDO/CUANDO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUANDO/CUANDO_ORACION_2.mp4 with label CUANDO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUANDO/CUANDO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUARENTA/CUARENTA_ORACION_1.mp4 with label CUARENTA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUARENTA/CUARENTA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUARENTA/CUARENTA_ORACION_2.mp4 with label CUARENTA_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUARENTA/CUARENTA_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUATRO/CUATRO_ORACION_1.mp4 with label CUATRO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUATRO/CUATRO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUERPO/CUERPO_ORACION_1.mp4 with label CUERPO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUERPO/CUERPO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUERPO/CUERPO_ORACION_2.mp4 with label CUERPO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUERPO/CUERPO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUNA/CUNA_ORACION_1.mp4 with label CUNA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUNA/CUNA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUNA/CUNA_ORACION_2.mp4 with label CUNA_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/CUNA/CUNA_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DAR-PASOS/DAR-PASOS_ORACION_1.mp4 with label DAR-PASOS_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DAR-PASOS/DAR-PASOS_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DEBAJO/DEBAJO_ORACION_1.mp4 with label DEBAJO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DEBAJO/DEBAJO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DEBAJO/DEBAJO_ORACION_2.mp4 with label DEBAJO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DEBAJO/DEBAJO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DEBAJO/DEBAJO_ORACION_3.mp4 with label DEBAJO_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DEBAJO/DEBAJO_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DECIRME/DECIRME_ORACION_1.mp4 with label DECIRME_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DECIRME/DECIRME_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DENTRO/DENTRO_ORACION_1.mp4 with label DENTRO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DENTRO/DENTRO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DESAPARECER/DESAPARECER_ORACION_1.mp4 with label DESAPARECER_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DESAPARECER/DESAPARECER_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DESAPARECER/DESAPARECER_ORACION_2.mp4 with label DESAPARECER_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DESAPARECER/DESAPARECER_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DESPUES/DESPUES_ORACION_1.mp4 with label DESPUES_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DESPUES/DESPUES_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DESPUES/DESPUES_ORACION_2.mp4 with label DESPUES_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DESPUES/DESPUES_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DESPUES/DESPUES_ORACION_3.mp4 with label DESPUES_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DESPUES/DESPUES_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DESPUES/DESPUES_ORACION_4.mp4 with label DESPUES_ORACION_4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DESPUES/DESPUES_ORACION_4.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIA/DIA_ORACION_1.mp4 with label DIA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIA/DIA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECINUEVE/DIECINUEVE_ORACION_1.mp4 with label DIECINUEVE_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECINUEVE/DIECINUEVE_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECINUEVE/DIECINUEVE_ORACION_2.mp4 with label DIECINUEVE_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECINUEVE/DIECINUEVE_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECINUEVE/DIECINUEVE_ORACION_3.mp4 with label DIECINUEVE_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECINUEVE/DIECINUEVE_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECIOCHO/DIECIOCHO_ORACION_1.mp4 with label DIECIOCHO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECIOCHO/DIECIOCHO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECIOCHO/DIECIOCHO_ORACION_2.mp4 with label DIECIOCHO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECIOCHO/DIECIOCHO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECIOCHO/DIECIOCHO_ORACION_3.mp4 with label DIECIOCHO_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECIOCHO/DIECIOCHO_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECISEIS/DIECISEIS_ORACION_1.mp4 with label DIECISEIS_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECISEIS/DIECISEIS_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECISEIS/DIECISEIS_ORACION_2.mp4 with label DIECISEIS_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECISEIS/DIECISEIS_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECISEIS/DIECISEIS_ORACION_3.mp4 with label DIECISEIS_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECISEIS/DIECISEIS_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECISIETE/DIECISIETE_ORACION_1.mp4 with label DIECISIETE_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECISIETE/DIECISIETE_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECISIETE/DIECISIETE_ORACION_2.mp4 with label DIECISIETE_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECISIETE/DIECISIETE_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECISIETE/DIECISIETE_ORACION_3.mp4 with label DIECISIETE_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECISIETE/DIECISIETE_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECISIETE/DIECISIETE_ORACION_4.mp4 with label DIECISIETE_ORACION_4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIECISIETE/DIECISIETE_ORACION_4.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIEZ/DIEZ_ORACION_1.mp4 with label DIEZ_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIEZ/DIEZ_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIEZ/DIEZ_ORACION_2.mp4 with label DIEZ_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIEZ/DIEZ_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIFICIL/DIFICIL_ORACION_1.mp4 with label DIFICIL_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIFICIL/DIFICIL_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIFICIL/DIFICIL_ORACION_2.mp4 with label DIFICIL_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIFICIL/DIFICIL_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIFICIL/DIFICIL_ORACION_3.mp4 with label DIFICIL_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DIFICIL/DIFICIL_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DINERO/DINERO_ORACION_1.mp4 with label DINERO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DINERO/DINERO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DINERO/DINERO_ORACION_2.mp4 with label DINERO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DINERO/DINERO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DOCE/DOCE_ORACION_1.mp4 with label DOCE_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DOCE/DOCE_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DOCE/DOCE_ORACION_2.mp4 with label DOCE_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DOCE/DOCE_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DOCE/DOCE_ORACION_3.mp4 with label DOCE_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DOCE/DOCE_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DONDE/DONDE_ORACION_1.mp4 with label DONDE_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DONDE/DONDE_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DONDE/DONDE_ORACION_2.mp4 with label DONDE_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DONDE/DONDE_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DONDE/DONDE_ORACION_3.mp4 with label DONDE_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DONDE/DONDE_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DORMIR/DORMIR_ORACION_1.mp4 with label DORMIR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DORMIR/DORMIR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DORMIR/DORMIR_ORACION_2.mp4 with label DORMIR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DORMIR/DORMIR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DORMIR/DORMIR_ORACION_3.mp4 with label DORMIR_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DORMIR/DORMIR_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DOS/DOS_ORACION_1.mp4 with label DOS_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/DOS/DOS_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/EMPEZAR/EMPEZAR_ORACION_1.mp4 with label EMPEZAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/EMPEZAR/EMPEZAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/EMPEZAR/EMPEZAR_ORACION_2.mp4 with label EMPEZAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/EMPEZAR/EMPEZAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENCONTRAR/ENCONTRAR_ORACION_1.mp4 with label ENCONTRAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENCONTRAR/ENCONTRAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENCONTRAR/ENCONTRAR_ORACION_2.mp4 with label ENCONTRAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENCONTRAR/ENCONTRAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENCONTRAR/ENCONTRAR_ORACION_3.mp4 with label ENCONTRAR_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENCONTRAR/ENCONTRAR_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENGAеAR/ENGAеAR_ORACION_1.mp4 with label ENGAеAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENGAеAR/ENGAеAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENGAеAR/ENGAеAR_ORACION_2.mp4 with label ENGAеAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENGAеAR/ENGAеAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENGORDAR/ENGORDAR_ORACION_1.mp4 with label ENGORDAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENGORDAR/ENGORDAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENTENDER/ENTENDER_ORACION_1.mp4 with label ENTENDER_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENTENDER/ENTENDER_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENTENDER/ENTENDER_ORACION_2.mp4 with label ENTENDER_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENTENDER/ENTENDER_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENTRAR/ENTRAR_ORACION_1.mp4 with label ENTRAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENTRAR/ENTRAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENTRAR/ENTRAR_ORACION_2.mp4 with label ENTRAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ENTRAR/ENTRAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESCONDER/ESCONDER_ORACION_1.mp4 with label ESCONDER_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESCONDER/ESCONDER_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESPERAR/ESPERAR_ORACION_1.mp4 with label ESPERAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESPERAR/ESPERAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESPERAR/ESPERAR_ORACION_2.mp4 with label ESPERAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESPERAR/ESPERAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESPERAR/ESPERAR_ORACION_3.mp4 with label ESPERAR_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESPERAR/ESPERAR_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESPERAR/ESPERAR_ORACION_4.mp4 with label ESPERAR_ORACION_4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESPERAR/ESPERAR_ORACION_4.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESTAR-BIEN/ESTAR-BIEN_ORACION_1.mp4 with label ESTAR-BIEN_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESTAR-BIEN/ESTAR-BIEN_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESTAR-BIEN/ESTAR-BIEN_ORACION_2.mp4 with label ESTAR-BIEN_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESTAR-BIEN/ESTAR-BIEN_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESTAR-BIEN/ESTAR-BIEN_ORACION_3.mp4 with label ESTAR-BIEN_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/ESTAR-BIEN/ESTAR-BIEN_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FALTAR/FALTAR_ORACION_1.mp4 with label FALTAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FALTAR/FALTAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FALTAR/FALTAR_ORACION_2.mp4 with label FALTAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FALTAR/FALTAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FELIZ/FELIZ_ORACION_1.mp4 with label FELIZ_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FELIZ/FELIZ_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FELIZ/FELIZ_ORACION_2.mp4 with label FELIZ_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FELIZ/FELIZ_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FELIZ/FELIZ_ORACION_3.mp4 with label FELIZ_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FELIZ/FELIZ_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FIN/FIN_ORACION_1.mp4 with label FIN_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FIN/FIN_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FIN/FIN_ORACION_2.mp4 with label FIN_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FIN/FIN_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FIN/FIN_ORACION_3.mp4 with label FIN_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FIN/FIN_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FLACO/FLACO_ORACION_1.mp4 with label FLACO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FLACO/FLACO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FLACO/FLACO_ORACION_2.mp4 with label FLACO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FLACO/FLACO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FLACO/FLACO_ORACION_3.mp4 with label FLACO_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FLACO/FLACO_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FLACO/FLACO_ORACION_4.mp4 with label FLACO_ORACION_4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FLACO/FLACO_ORACION_4.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FORTACHON/FORTACHON_ORACION_1.mp4 with label FORTACHON_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FORTACHON/FORTACHON_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FORTACHON/FORTACHON_ORACION_2.mp4 with label FORTACHON_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FORTACHON/FORTACHON_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FORTACHON/FORTACHON_ORACION_3.mp4 with label FORTACHON_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FORTACHON/FORTACHON_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FREGADO/FREGADO_ORACION_1.mp4 with label FREGADO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FREGADO/FREGADO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FREGADO/FREGADO_ORACION_2.mp4 with label FREGADO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FREGADO/FREGADO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FRIO/FRIO_ORACION_1.mp4 with label FRIO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FRIO/FRIO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FRIO/FRIO_ORACION_2.mp4 with label FRIO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FRIO/FRIO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FRIO/FRIO_ORACION_3.mp4 with label FRIO_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FRIO/FRIO_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FUNDAR/FUNDAR_ORACION_1.mp4 with label FUNDAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FUNDAR/FUNDAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FUNDAR/FUNDAR_ORACION_2.mp4 with label FUNDAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FUNDAR/FUNDAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FUTURO/FUTURO_ORACION_1.mp4 with label FUTURO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FUTURO/FUTURO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FUTURO/FUTURO_ORACION_2.mp4 with label FUTURO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FUTURO/FUTURO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FUTURO/FUTURO_ORACION_3.mp4 with label FUTURO_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/FUTURO/FUTURO_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/GORDO/GORDO_ORACION_1.mp4 with label GORDO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/GORDO/GORDO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/GORDO/GORDO_ORACION_2.mp4 with label GORDO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/GORDO/GORDO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/GORRO/GORRO_ORACION_1.mp4 with label GORRO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/GORRO/GORRO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/GORRO/GORRO_ORACION_2.mp4 with label GORRO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/GORRO/GORRO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/GORRO/GORRO_ORACION_3.mp4 with label GORRO_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/GORRO/GORRO_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HACER/HACER_ORACION_1.mp4 with label HACER_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HACER/HACER_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HELICOPTERO/HELICOPTERO_ORACION_1.mp4 with label HELICOPTERO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HELICOPTERO/HELICOPTERO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HIJO/HIJO_ORACION_1.mp4 with label HIJO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HIJO/HIJO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HIJO/HIJO_ORACION_2.mp4 with label HIJO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HIJO/HIJO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HIJO/HIJO_ORACION_3.mp4 with label HIJO_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HIJO/HIJO_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HISTORIA/HISTORIA_ORACION_1.mp4 with label HISTORIA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HISTORIA/HISTORIA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HOLA/HOLA_ORACION_1.mp4 with label HOLA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HOLA/HOLA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HOLA/HOLA_ORACION_2.mp4 with label HOLA_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HOLA/HOLA_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HOMBRE/HOMBRE_ORACION_1.mp4 with label HOMBRE_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HOMBRE/HOMBRE_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HOMBRE/HOMBRE_ORACION_2.mp4 with label HOMBRE_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HOMBRE/HOMBRE_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HOY/HOY_ORACION_1.mp4 with label HOY_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HOY/HOY_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HOY/HOY_ORACION_2.mp4 with label HOY_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/HOY/HOY_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IDEA/IDEA_ORACION_1.mp4 with label IDEA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IDEA/IDEA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IDEA/IDEA_ORACION_2.mp4 with label IDEA_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IDEA/IDEA_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_1.mp4 with label IGUAL_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_2.mp4 with label IGUAL_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_3.mp4 with label IGUAL_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_4.mp4 with label IGUAL_ORACION_4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_4.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_5.mp4 with label IGUAL_ORACION_5
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_5.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_6.mp4 with label IGUAL_ORACION_6
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_6.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_7.mp4 with label IGUAL_ORACION_7
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_7.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_8.mp4 with label IGUAL_ORACION_8
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IGUAL/IGUAL_ORACION_8.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IMPOSIBLE/IMPOSIBLE_ORACION_1.mp4 with label IMPOSIBLE_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IMPOSIBLE/IMPOSIBLE_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/INFIEL/INFIEL_ORACION_1.mp4 with label INFIEL_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/INFIEL/INFIEL_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IR/IR_ORACION_1.mp4 with label IR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IR/IR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IR/IR_ORACION_2.mp4 with label IR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IR/IR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IR/IR_ORACION_3.mp4 with label IR_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IR/IR_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IR/IR_ORACION_4.mp4 with label IR_ORACION_4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IR/IR_ORACION_4.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IR/IR_ORACION_5.mp4 with label IR_ORACION_5
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IR/IR_ORACION_5.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IX/EL_ORACION_1.mp4 with label EL_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IX/EL_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IX/ELLA_ORACION_1.mp4 with label ELLA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IX/ELLA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IX/ELLA_ORACION_2.mp4 with label ELLA_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IX/ELLA_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IX-OCULTO/IX-OCULTO_ORACION_1.mp4 with label IX-OCULTO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/IX-OCULTO/IX-OCULTO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/JOVEN/JOVEN_ORACION_1.mp4 with label JOVEN_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/JOVEN/JOVEN_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/JOVEN/JOVEN_ORACION_2.mp4 with label JOVEN_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/JOVEN/JOVEN_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/JOVEN/JOVEN_ORACION_3.mp4 with label JOVEN_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/JOVEN/JOVEN_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/JUGAR/JUGAR_ORACION_1.mp4 with label JUGAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/JUGAR/JUGAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/JUGAR/JUGAR_ORACION_2.mp4 with label JUGAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/JUGAR/JUGAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/JUNTOS/JUNTOS_ORACION_1.mp4 with label JUNTOS_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/JUNTOS/JUNTOS_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/LANCHA/LANCHA_ORACION_1.mp4 with label LANCHA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/LANCHA/LANCHA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/LENTES/LENTES_ORACION_1.mp4 with label LENTES_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/LENTES/LENTES_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/LENTES-DE-SOL/LENTES-DE-SOL-ORACION_1.mp4 with label LENTES-DE-SOL-ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/LENTES-DE-SOL/LENTES-DE-SOL-ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/LO SIENTO/LO-SIENTO_ORACION_1.mp4 with label LO-SIENTO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/LO SIENTO/LO-SIENTO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/LO SIENTO/LO-SIENTO_ORACION_2.mp4 with label LO-SIENTO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/LO SIENTO/LO-SIENTO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/LUEGO/LUEGO_ORACION_1.mp4 with label LUEGO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/LUEGO/LUEGO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/LUEGO/LUEGO_ORACION_2.mp4 with label LUEGO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/LUEGO/LUEGO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MALO/MALO_ORACION_1.mp4 with label MALO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MALO/MALO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MALO/MALO_ORACION_2.mp4 with label MALO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MALO/MALO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MANDAR/MANDAR_ORACION_1.mp4 with label MANDAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MANDAR/MANDAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MANDAR/MANDAR_ORACION_2.mp4 with label MANDAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MANDAR/MANDAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MATRIMONIO/MATRIMONIO_ORACION_1.mp4 with label MATRIMONIO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MATRIMONIO/MATRIMONIO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MATRIMONIO/MATRIMONIO_ORACION_2.mp4 with label MATRIMONIO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MATRIMONIO/MATRIMONIO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MUCHO/MUCHO_ORACION_1.mp4 with label MUCHO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MUCHO/MUCHO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MUCHO-DINERO/MUCHO-DINERO_ORACION_1.mp4 with label MUCHO-DINERO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MUCHO-DINERO/MUCHO-DINERO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MUCHO-DINERO/MUCHO-DINERO_ORACION_2.mp4 with label MUCHO-DINERO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/MUCHO-DINERO/MUCHO-DINERO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PELOTA/PELOTA_ORACION_1.mp4 with label PELOTA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PELOTA/PELOTA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PERDER/PERDER_ORACION_1.mp4 with label PERDER_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PERDER/PERDER_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PERSONA-PEQUEеA/PERSONA-PEQUEеA_ORACION_1.mp4 with label PERSONA-PEQUEеA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PERSONA-PEQUEеA/PERSONA-PEQUEеA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PERSONA-PEQUEеA/PERSONA-PEQUEеA_ORACION_2.mp4 with label PERSONA-PEQUEеA_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PERSONA-PEQUEеA/PERSONA-PEQUEеA_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PERSONA-PEQUEеA/PERSONA-PEQUEеA_ORACION_3.mp4 with label PERSONA-PEQUEеA_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PERSONA-PEQUEеA/PERSONA-PEQUEеA_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PILA/PILA_ORACION_1.mp4 with label PILA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PILA/PILA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PREGUNTAR/PREGUNTAR_ORACION_1.mp4 with label PREGUNTAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PREGUNTAR/PREGUNTAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PREGUNTAR/PREGUNTAR_ORACION_2.mp4 with label PREGUNTAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PREGUNTAR/PREGUNTAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PRESENTE/PRESENTE_ORACION_1.mp4 with label PRESENTE_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PRESENTE/PRESENTE_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PUERTA/PUERTA_ORACION_1.mp4 with label PUERTA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/PUERTA/PUERTA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/SUBIR-PERSONA/SUBIR-PERSONA_ORACION_1.mp4 with label SUBIR-PERSONA_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/SUBIR-PERSONA/SUBIR-PERSONA_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/SUDAR/SUDAR_ORACION_1.mp4 with label SUDAR_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/SUDAR/SUDAR_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/SUDAR/SUDAR_ORACION_2.mp4 with label SUDAR_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/SUDAR/SUDAR_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/SUDAR/SUDAR_ORACION_3.mp4 with label SUDAR_ORACION_3
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/SUDAR/SUDAR_ORACION_3.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/TELEFONO/TELEFONO_ORACION_1.mp4 with label TELEFONO_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/TELEFONO/TELEFONO_ORACION_1.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/TELEFONO/TELEFONO_ORACION_2.mp4 with label TELEFONO_ORACION_2
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/TELEFONO/TELEFONO_ORACION_2.mp4
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/VER/VER_ORACION_1.mp4 with label VER_ORACION_1
+Processing video /home/shared/PUCP305/5. Segundo avance (corregido)/VER/VER_ORACION_1.mp4
+All videos have been processed.

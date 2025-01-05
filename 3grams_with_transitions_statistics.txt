@@ -1,0 +1,33 @@
+Total number of sentences: 236
+Sentences with at least 1 transition with 0 frames: 233, 98.73%
+Sentences with at least 1 transition with 1 frame: 39, 16.53%
+Sentences with all transitions with 0 frames: 165, 69.92%
+Sentences with all transitions with 1 frame or less: 195, 82.63%
+Sentences with any transitions with more than 1 frame: 41, 17.37%
+Sentences with any transitions with more than 0 frame: 71, 30.08%
+
+Total number of n-grams: 810
+n-grams with at least 1 transition with 0 frames: 780, 96.30%
+n-grams with at least 1 transition with 1 frame: 90, 11.11%
+n-grams with all transitions with 0 frames: 660, 81.48%
+n-grams with all transitions with 1 frame or less: 739, 91.23%
+n-grams with any transitions with more than 1 frame: 71, 8.77%
+n-grams with any transitions with more than 0 frame: 150, 18.52%
+
+Transition frames statistics (considering transitions with more than 1 frame):
+Median: 11.0
+Mean: 12.013513513513514
+25th percentile: 4.0
+50th percentile: 11.0
+75th percentile: 14.75
+Max: 49
+Min: 2
+
+Transition durations statistics (seconds, considering transitions with more than 1 frame):
+Median: 0.36
+Mean: 0.3990945945945946
+25th percentile: 0.125
+50th percentile: 0.36
+75th percentile: 0.48750000000000004
+Max: 1.6199999999999997
+Min: 0.05000000000000071
