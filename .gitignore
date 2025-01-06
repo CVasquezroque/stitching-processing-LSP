@@ -1,4 +1,8 @@
 keypoints/
 ngram_keypoints/
 ngram_keypoints_old/
-
+full_output/
+full_output_corrected/
+full_output_corrected_final/
+full_output_resampled/
+full_videos_output/
